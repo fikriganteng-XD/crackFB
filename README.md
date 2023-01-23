@@ -5,7 +5,13 @@
 >> 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥
 # Pake Doang Ngga Follow, Kontoll Loh
 logo 🌟
-![deskripsi gambar](https://github.com/Syafii-XD/crack3/blob/main/data/Screenshot_2022-09-14-08-59-28-85_84d3000e3f4017145260f7618db1d683.jpg)
+<img src="https://2.bp.blogspot.com/-j--2prnQYQY/VlMsc1LgIMI/AAAAAAAADnE/sMZ_j-KKF_w/s1600/gambar-animasi-kuda-bergerak-main-gitar.gif" width="25"> 𝚆𝙴𝙻𝙲𝙾𝙼𝙴 𝚃𝙾 𝙼𝚈 GitHub 𝙿𝚁𝙾𝙵𝙸𝙻𝙴&nbsp; <img src="https://2.bp.blogspot.com/-j--2prnQYQY/VlMsc1LgIMI/AAAAAAAADnE/sMZ_j-KKF_w/s1600/gambar-animasi-kuda-bergerak-main-gitar.gif" width="25">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=25&color=30FF40&background=000000&center=true&vCenter=true&width=360&height=60&lines=Hello+World%2C+I'm+SYAFII-XD+Here+🤙;𝙸𝚃'𝚜+𝙽𝙾𝚃+𝙰+𝙹𝚄𝚂𝚃+𝙽𝙰𝙼𝙴+𝙱𝚁𝙾+🥱;𝙸𝚃'𝚜+𝙰+𝙱𝚁𝙰𝙽𝙳+🔥;Respect+SYAFII-XD+🥀;Today+I+Will+Tell+You+😇;Please+Follow+My+GitHub+🙏;Thanks+My+All+Friend+🤙+🥰)](https://git.io/typing-svg)
+
+
+<img src="https://media.giphy.com/media/H4uE6w9G1uK4M/giphy.gif"/>
+</details>
 # Instalation
 Download apk Termuxnya disini biar ngga eror🌟
 [Klik Disini](https://f-droid.org/repo/com.termux_118.apk)👈
