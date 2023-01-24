@@ -54,12 +54,12 @@ ses=requests.Session()
 princp=[]
 ugen2=open('Ua/ugent2.txt','r').read().splitlines()
 ugen=open('Ua/ugent.txt','r').read().splitlines()
-prox=open('.prox.txt','r').read().splitlines()
 try:
 	prox= requests.get('https://api.proxyscrape.com/v2/?request=displayproxies&protocol=socks4&timeout=100000&country=all&ssl=all&anonymity=all').text
 	open('.prox.txt','w').write(prox)
 except Exception as e:
 	print('GAGAL')
+prox=open('.prox.txt','r').read().splitlines()
 
 #-------------[BAGIAN INDIVIDU]------------#
 id,id2,loop,ok,cp,akun,oprek,method,taplikasi,tokenku,uid,lisensikuni= [],[],0,0,0,[],[],[],[],[],[],[]
