@@ -205,7 +205,7 @@ def banner():
 / ___||  \/  |  _ \_   _/ ___|
 \___ \| |\/| | |_) || || |  _
  ___) | |  | |  _ < | || |_| |
-   |____/|_|  |_|_| \_\|_| \____| • VERSION 15.1.1 • 
+|____/|_|  |_|_| \_\|_| \____| • VERSION 15.1.1 • 
    GITHUB : HTTPS://GITHUB.COM/SYAFII-XD/SMRTG'''
 	oi = nel(tekz(ban,justify='center',style=f'{PK}'), style=f'{JG}')
 	cetak(nel(oi, title=f'{N2} • INFORMASI AUTHOR • {N2}'))
